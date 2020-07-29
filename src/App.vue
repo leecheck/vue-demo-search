@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import panel from './components/search-panel.vue';
+import panel from './components/logo-select.vue';
 
 
 export default {
